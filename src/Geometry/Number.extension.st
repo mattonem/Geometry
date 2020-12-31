@@ -20,7 +20,7 @@ Number >> divideWithAngle: aGAngle [
 	^ (aGAngle radians / self) radians
 ]
 
-{ #category : #'*geometry' }
+{ #category : #'*Geometry' }
 Number class >> epsilon [
 	^ 0.00001
 ]
