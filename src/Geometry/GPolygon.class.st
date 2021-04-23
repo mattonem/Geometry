@@ -12,7 +12,7 @@ Class {
 	#category : #'Geometry-Shapes'
 }
 
-{ #category : #'as yet unclassified' }
+{ #category : #public }
 GPolygon class >> convexHullOn: aCollection [
 	| lastPoint nextPoint convexHull |
 	"self halt."
